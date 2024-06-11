@@ -1,0 +1,64 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Hiral Jansari",
+      "email": "hiraljansari92@gmail.com",
+      "course": "Computer Science"
+    },
+    {
+      "id": 2,
+      "name": "Rahul Sharma",
+      "email": "rahul.sharma@example.com",
+      "course": "Mathematics"
+    },
+    {
+      "id": 3,
+      "name": "Anita Patel",
+      "email": "anita.patel@example.com",
+      "course": "Physics"
+    },
+    {
+      "id": 4,
+      "name": "Vikram Singh",
+      "email": "vikram.singh@example.com",
+      "course": "Chemistry"
+    },
+    {
+      "id": 5,
+      "name": "Neha Verma",
+      "email": "neha.verma@example.com",
+      "course": "Biology"
+    },
+    {
+      "id": 6,
+      "name": "Amit Gupta",
+      "email": "amit.gupta@example.com",
+      "course": "Mechanical Engineering"
+    },
+    {
+      "id": 7,
+      "name": "Priya Kapoor",
+      "email": "priya.kapoor@example.com",
+      "course": "Electrical Engineering"
+    },
+    {
+      "id": 8,
+      "name": "Rohan Mehta",
+      "email": "rohan.mehta@example.com",
+      "course": "Civil Engineering"
+    },
+    {
+      "id": 9,
+      "name": "Sonia Ahuja",
+      "email": "sonia.ahuja@example.com",
+      "course": "Information Technology"
+    },
+    {
+      "id": 10,
+      "name": "Karan Desai",
+      "email": "karan.desai@example.com",
+      "course": "Software Engineering"
+    }
+  ]
+}
